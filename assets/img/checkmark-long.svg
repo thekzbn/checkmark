@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="500"
+   viewBox="0 0 1500 500"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.332982"
+       d="m 693.05307,285.04159 v -0.57356"
+       id="path3" />
+    <g
+       id="g1"
+       transform="translate(-36.236059)">
+      <path
+         id="path1"
+         style="fill:#eadaca;fill-opacity:1;stroke-width:1.07476"
+         d="m 226.03334,126.65949 -36.56232,62.48026 35.34485,61.21858 72.25446,-0.0715 37.40517,-63.90259 33.6624,64.89113 -37.1561,62.53294 -71.3329,0.12682 -34.78946,-63.47206 -69.63676,0.92546 34.47921,61.32263 69.88521,1.15763 -0.4624,1.15698 -34.24834,57.85169 72.89311,0.46305 33.32284,-59.47172 35.4054,57.62016 34.7107,-60.86023 -33.09131,-59.47172 69.6536,-1.85091 -34.4792,-60.39782 -68.4967,-2.54549 33.0914,-59.70325 -71.96832,0.23152 -34.01682,58.54627 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:178.393px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#eadaca;stroke:none;stroke-width:1.33795"
+         x="462.91656"
+         y="313.17569"
+         id="text1"><tspan
+           id="tspan1"
+           x="462.91656"
+           y="313.17569"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:178.393px;font-family:'Inter Tight';-inkscape-font-specification:'Inter Tight';stroke:none;stroke-width:1.33795">Checkmark</tspan></text>
+    </g>
+  </g>
+</svg>
