@@ -1221,11 +1221,11 @@ body {
     }
 
     .navbar-brand img {
-        content: url('assets/img/checkmark.svg');
+        content: url('../../assets/img/checkmark.svg');
     }
 
     .footer-logo img {
-        content: url('assets/img/checkmark.svg');
+        content: url('../../assets/img/checkmark.svg');
     }
 
     .checkmark-float {
